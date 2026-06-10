@@ -1,2 +1,4 @@
 Hi
 This is file2
+This is feature1
+edting from git
